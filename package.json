@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "A clone of Tab News to follow Filipe Deschamps's course.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev": "next dev"
+  },
   "author": "Matheus Mattana",
   "license": "MIT",
   "dependencies": {
